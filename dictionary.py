@@ -1,7 +1,4 @@
-band = {}
+band = {'bts':['rap monster'], 'evanscene':['singer'], 'ikon':['B.I']}
 
-band = {
-	"ikon" = 7
-	"bts" = 7
-	"eveanscence" = 4
-}
+
+	
